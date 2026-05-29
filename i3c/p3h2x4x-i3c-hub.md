@@ -17,9 +17,7 @@ This project focuses on upstream Linux support for the P3H2x4x family.
 - Developed MFD Driver
 - Developed Regulator Driver
 - Added Device Tree Bindings
-- Added SMBus Target Support
-- Added Cascaded Hub Support
-- Participated in upstream review cycles (v1-v10)
+- Participated in upstream review cycles
 
 ## Linux Subsystems
 

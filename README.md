@@ -1,4 +1,4 @@
-# linux-kernel-contributions
+# Linux-Kernel-Contributions
 This repository serves as a technical portfolio of my Linux kernel development and upstream contribution journey.
 
 I worked primarily in the areas of:

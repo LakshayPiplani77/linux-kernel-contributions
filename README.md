@@ -36,7 +36,7 @@ Highlights:
 https://lore.kernel.org/linux-i3c/20260525064209.2263045-1-lakshay.piplani@nxp.com/T/#t
 
 📄 Detailed Notes:  
-[i3c/p3h2x4x-i3c-hub.md](i3c/p3h2x4x-i3c-hub.md)
+[mfd/p3h2x4x-i3c-hub.md](mfd/p3h2x4x-i3c-hub.md)
 
 ---
 
@@ -71,7 +71,7 @@ https://lore.kernel.org/linux-i3c/20260525064209.2263045-1-lakshay.piplani@nxp.c
 - 🌡️ [P3T1750 HWMON Driver](hwmon/p3t1750.md)
 - 🕒 [PCF85363 RTC Calibration](rtc/pcf85363.md)
 - ⏰ [PCF85053A RTC Support](rtc/pcf85053a.md)
-- ⚡ [P3H2x4x I3C Hub Driver](i3c/p3h2x4x-i3c-hub.md)
+- ⚡ [P3H2x4x I3C Hub Driver](mfd/p3h2x4x-i3c-hub.md)
 - 🔄 [PCF85263 Counter Driver](counter/pcf85263.md)
 - 📈 [P3T1755 IIO Driver](iio/p3t1755.md)
 
@@ -87,7 +87,7 @@ linux-kernel-contributions/
 ├── rtc/
 │ ├── pcf85363.md
 │ └── pcf85053a.md
-├── i3c/
+├── mfd/
 │ └── p3h2x4x-i3c-hub.md
 ├── counter/
 │ └── pcf85263.md

@@ -48,7 +48,7 @@ https://lore.kernel.org/linux-i3c/20260525064209.2263045-1-lakshay.piplani@nxp.c
 
 ---
 
-## 📨 Reviewed & Accepted Contributions
+## 📨 Reviewed & Ongoing Contributions
 
 | Subsystem | Contribution | Link | Details |
 |---|---|---|---|
